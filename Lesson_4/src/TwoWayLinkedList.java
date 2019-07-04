@@ -1,5 +1,5 @@
 /**
- * Created by Misha on 22.07.2018.
+ * Created by Misha on 23.07.2018.
  */
 public interface TwoWayLinkedList extends LinkedList{
 
